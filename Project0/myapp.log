@@ -1,0 +1,1770 @@
+INFO:root:Started
+INFO:werkzeug: * Restarting with stat
+INFO:root:Started
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 335-881-555
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 00:45:51] "[37mPATCH /clients/1/accounts/4 HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\JMDel\\PycharmProjects\\Project0\\controllers\\client_controller.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Started
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 335-881-555
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:root:Started
+INFO:werkzeug: * Restarting with stat
+INFO:root:Started
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 335-881-555
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:root:creating client <models.client.Client object at 0x0000023699AE1070>
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 00:49:41] "[37mPOST /clients HTTP/1.1[0m" 201 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\JMDel\\PycharmProjects\\Project0\\controllers\\client_controller.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Started
+INFO:werkzeug: * Restarting with stat
+INFO:root:Started
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 335-881-555
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:root:creating client <models.client.Client object at 0x0000022F0A38BF70>
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 00:50:53] "[37mPOST /clients HTTP/1.1[0m" 201 -
+INFO:root:Started
+INFO:werkzeug: * Restarting with stat
+INFO:root:Started
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 335-881-555
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:root:creating client JOSE
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 00:52:56] "[37mPOST /clients HTTP/1.1[0m" 201 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\JMDel\\PycharmProjects\\Project0\\controllers\\client_controller.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Started
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 335-881-555
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\JMDel\\PycharmProjects\\Project0\\controllers\\client_controller.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Started
+INFO:root:Started
+INFO:root:Started
+INFO:root:Started
+INFO:root:Started
+INFO:werkzeug: * Restarting with stat
+INFO:root:Started
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 335-881-555
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 01:08:53] "[32mGET /clients/1/accounts?amountLessThan=0&amountGreaterThan5000 HTTP/1.1[0m" 308 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 01:08:53] "[37mGET /clients/1/accounts/?amountLessThan=0&amountGreaterThan5000 HTTP/1.1[0m" 200 -
+INFO:root:Started
+INFO:werkzeug: * Restarting with stat
+INFO:root:Started
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 335-881-555
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 01:09:49] "[32mGET /clients/1/accounts?amountLessThan=0&amountGreaterThan5000 HTTP/1.1[0m" 308 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 01:09:50] "[37mGET /clients/1/accounts/?amountLessThan=0&amountGreaterThan5000 HTTP/1.1[0m" 200 -
+INFO:root:Started
+INFO:werkzeug: * Restarting with stat
+INFO:root:Started
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 335-881-555
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 01:11:05] "[32mGET /clients/1/accounts?amountLessThan=0&amountGreaterThan5000 HTTP/1.1[0m" 308 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 01:11:05] "[37mGET /clients/1/accounts/?amountLessThan=0&amountGreaterThan5000 HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 01:11:58] "[32mGET /clients/1/accounts?amountLessThan=1&amountGreaterThan5000 HTTP/1.1[0m" 308 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 01:11:59] "[37mGET /clients/1/accounts/?amountLessThan=1&amountGreaterThan5000 HTTP/1.1[0m" 200 -
+INFO:root:Started
+INFO:werkzeug: * Restarting with stat
+INFO:root:Started
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 335-881-555
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 01:24:26] "[32mGET /clients/1/accounts?amountLessThan=1&amountGreaterThan=5000 HTTP/1.1[0m" 308 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 01:24:26] "[37mGET /clients/1/accounts/?amountLessThan=1&amountGreaterThan=5000 HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\JMDel\\PycharmProjects\\Project0\\controllers\\client_controller.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Started
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 335-881-555
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\JMDel\\PycharmProjects\\Project0\\controllers\\client_controller.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Started
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 335-881-555
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 06:09:53] "[32mGET /clients/1/accounts?amountLessThan=1&amountGreaterThan=5000 HTTP/1.1[0m" 308 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 06:09:54] "[37mGET /clients/1/accounts/?amountLessThan=1&amountGreaterThan=5000 HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\JMDel\\PycharmProjects\\Project0\\controllers\\client_controller.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Started
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 335-881-555
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\JMDel\\PycharmProjects\\Project0\\controllers\\client_controller.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Started
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 335-881-555
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\JMDel\\PycharmProjects\\Project0\\controllers\\client_controller.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Started
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 335-881-555
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 06:33:27] "[32mGET /clients/1/accounts?amountLessThan=1&amountGreaterThan=5000 HTTP/1.1[0m" 308 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 06:33:28] "[35m[1mGET /clients/1/accounts/?amountLessThan=1&amountGreaterThan=5000 HTTP/1.1[0m" 500 -
+INFO:root:Started
+INFO:werkzeug: * Restarting with stat
+INFO:root:Started
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 335-881-555
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 06:35:52] "[32mGET /clients/1/accounts?amountLessThan=1&amountGreaterThan=5000 HTTP/1.1[0m" 308 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 06:35:52] "[35m[1mGET /clients/1/accounts/?amountLessThan=1&amountGreaterThan=5000 HTTP/1.1[0m" 500 -
+INFO:root:Started
+INFO:werkzeug: * Restarting with stat
+INFO:root:Started
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 335-881-555
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 06:37:06] "[32mGET /clients/1/accounts?amountLessThan=1&amountGreaterThan=5000 HTTP/1.1[0m" 308 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 06:37:06] "[35m[1mGET /clients/1/accounts/?amountLessThan=1&amountGreaterThan=5000 HTTP/1.1[0m" 500 -
+INFO:root:Started
+INFO:werkzeug: * Restarting with stat
+INFO:root:Started
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 335-881-555
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 06:38:24] "[32mGET /clients/1/accounts?amountLessThan=1&amountGreaterThan=5000 HTTP/1.1[0m" 308 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 06:38:25] "[35m[1mGET /clients/1/accounts/?amountLessThan=1&amountGreaterThan=5000 HTTP/1.1[0m" 500 -
+INFO:root:Started
+INFO:werkzeug: * Restarting with stat
+INFO:root:Started
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 335-881-555
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 06:40:50] "[32mGET /clients/1/accounts?amountLessThan=1&amountGreaterThan=5000 HTTP/1.1[0m" 308 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 06:40:50] "[37mGET /clients/1/accounts/?amountLessThan=1&amountGreaterThan=5000 HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 06:41:56] "[32mGET /clients/1/accounts?amountLessThan=1&amountGreaterThan=30000 HTTP/1.1[0m" 308 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 06:41:56] "[37mGET /clients/1/accounts/?amountLessThan=1&amountGreaterThan=30000 HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\JMDel\\PycharmProjects\\Project0\\controllers\\client_controller.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Started
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 335-881-555
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\JMDel\\PycharmProjects\\Project0\\controllers\\client_controller.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Started
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 335-881-555
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\JMDel\\PycharmProjects\\Project0\\controllers\\client_controller.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Started
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 335-881-555
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\JMDel\\PycharmProjects\\Project0\\daos\\account_dao_impl.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Started
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 335-881-555
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\JMDel\\PycharmProjects\\Project0\\daos\\account_dao_impl.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Started
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 335-881-555
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\JMDel\\PycharmProjects\\Project0\\controllers\\client_controller.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Started
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 335-881-555
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\JMDel\\PycharmProjects\\Project0\\services\\account_service_impl.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Started
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 335-881-555
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\JMDel\\PycharmProjects\\Project0\\daos\\account_dao_impl.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Started
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 335-881-555
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\JMDel\\PycharmProjects\\Project0\\daos\\account_dao_impl.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Started
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 335-881-555
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\JMDel\\PycharmProjects\\Project0\\daos\\account_dao_impl.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Started
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 335-881-555
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\JMDel\\PycharmProjects\\Project0\\daos\\account_dao_impl.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Started
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 335-881-555
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 09:37:22] "[37mPATCH /clients/1/accounts/2/transfer/3 HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\JMDel\\PycharmProjects\\Project0\\daos\\account_dao_impl.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Started
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 335-881-555
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 09:38:33] "[31m[1mPATCH /clients/1/accounts/2/transfer/3 HTTP/1.1[0m" 422 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\JMDel\\PycharmProjects\\Project0\\daos\\account_dao_impl.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Started
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 335-881-555
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\JMDel\\PycharmProjects\\Project0\\controllers\\client_controller.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Started
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 335-881-555
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\JMDel\\PycharmProjects\\Project0\\controllers\\client_controller.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Started
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 335-881-555
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\JMDel\\PycharmProjects\\Project0\\controllers\\client_controller.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Started
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 335-881-555
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\JMDel\\PycharmProjects\\Project0\\controllers\\client_controller.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Started
+INFO:werkzeug: * Restarting with stat
+INFO:root:Started
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 335-881-555
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:root:Started
+INFO:werkzeug: * Restarting with stat
+INFO:root:Started
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 335-881-555
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 10:53:55] "[33mPOST /clients/ HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 10:54:08] "[33mPOST /clients/ HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 10:54:33] "[35m[1mPOST /clients HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\JMDel\\PycharmProjects\\Project0\\services\\client_service.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Started
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 335-881-555
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 10:58:55] "[35m[1mPOST /clients HTTP/1.1[0m" 500 -
+INFO:root:Started
+INFO:werkzeug: * Restarting with stat
+INFO:root:Started
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 335-881-555
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:root:creating client JOESEPF
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 10:59:25] "[37mPOST /clients HTTP/1.1[0m" 201 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 11:00:53] "[35m[1mPOST /clients HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\JMDel\\PycharmProjects\\Project0\\controllers\\client_controller.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Started
+INFO:werkzeug: * Restarting with stat
+INFO:root:Started
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 335-881-555
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 11:06:45] "[35m[1mPOST /clients HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\JMDel\\PycharmProjects\\Project0\\controllers\\client_controller.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Started
+INFO:werkzeug: * Restarting with stat
+INFO:root:Started
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 335-881-555
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 11:09:50] "[35m[1mPOST /clients HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\JMDel\\PycharmProjects\\Project0\\controllers\\client_controller.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Started
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 335-881-555
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 11:11:34] "[37mPOST /clients HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 11:11:54] "[37mPOST /clients HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\JMDel\\PycharmProjects\\Project0\\controllers\\client_controller.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Started
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 335-881-555
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:root:Started
+INFO:werkzeug: * Restarting with stat
+INFO:root:Started
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 335-881-555
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 11:12:04] "[37mPOST /clients HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 11:12:34] "[37mPOST /clients HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 11:12:59] "[37mPOST /clients HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\JMDel\\PycharmProjects\\Project0\\controllers\\client_controller.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Started
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 335-881-555
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 11:13:02] "[37mPOST /clients HTTP/1.1[0m" 200 -
+INFO:root:Started
+INFO:werkzeug: * Restarting with stat
+INFO:root:Started
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 335-881-555
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 11:13:15] "[37mPOST /clients HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 11:13:17] "[37mPOST /clients HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\JMDel\\PycharmProjects\\Project0\\controllers\\client_controller.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Started
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 335-881-555
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 11:14:53] "[37mPOST /clients HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 11:15:04] "[31m[1mPOST /clients HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 11:15:18] "[31m[1mPOST /clients HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 11:15:33] "[37mPOST /clients HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\JMDel\\PycharmProjects\\Project0\\controllers\\client_controller.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Started
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 335-881-555
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 11:24:38] "[31m[1mPOST /clients HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 11:24:54] "[35m[1mPOST /clients HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 11:25:37] "[35m[1mPOST /clients HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\JMDel\\PycharmProjects\\Project0\\controllers\\client_controller.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Started
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 335-881-555
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 11:26:20] "[35m[1mPOST /clients HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\JMDel\\PycharmProjects\\Project0\\controllers\\client_controller.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Started
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 335-881-555
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:root:Started
+INFO:werkzeug: * Restarting with stat
+INFO:root:Started
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 335-881-555
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 11:26:42] "[35m[1mPOST /clients HTTP/1.1[0m" 500 -
+INFO:root:Started
+INFO:werkzeug: * Restarting with stat
+INFO:root:Started
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 335-881-555
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 11:28:13] "[35m[1mPOST /clients HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 11:30:22] "[35m[1mPOST /clients HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\JMDel\\PycharmProjects\\Project0\\controllers\\client_controller.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Started
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 335-881-555
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:root:Started
+INFO:werkzeug: * Restarting with stat
+INFO:root:Started
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 335-881-555
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 11:30:39] "[35m[1mPOST /clients HTTP/1.1[0m" 500 -
+INFO:root:Started
+INFO:werkzeug: * Restarting with stat
+INFO:root:Started
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 335-881-555
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 11:31:26] "[35m[1mPOST /clients HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\JMDel\\PycharmProjects\\Project0\\controllers\\client_controller.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Started
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 335-881-555
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 11:33:35] "[35m[1mPOST /clients HTTP/1.1[0m" 500 -
+INFO:root:Started
+INFO:werkzeug: * Restarting with stat
+INFO:root:Started
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 335-881-555
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 11:34:33] "[37mPOST /clients HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\JMDel\\PycharmProjects\\Project0\\controllers\\client_controller.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Started
+INFO:werkzeug: * Restarting with stat
+INFO:root:Started
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 335-881-555
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 11:35:47] "[37mPOST /clients HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 11:36:04] "[31m[1mPOST /clients HTTP/1.1[0m" 400 -
+INFO:root:creating client JOSEEEE
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 11:36:23] "[37mPOST /clients HTTP/1.1[0m" 200 -
+INFO:root:getting all clients
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 11:38:35] "[37mGET /clients HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\JMDel\\PycharmProjects\\Project0\\controllers\\client_controller.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Started
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 335-881-555
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 11:51:28] "[31m[1mGET /clients/s HTTP/1.1[0m" 400 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\JMDel\\PycharmProjects\\Project0\\daos\\client_dao_impl.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Started
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 335-881-555
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 11:57:24] "[33mGET /clients/ HTTP/1.1[0m" 404 -
+INFO:root:getting all clients
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 11:57:28] "[37mGET /clients HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\JMDel\\PycharmProjects\\Project0\\controllers\\client_controller.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Started
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 335-881-555
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:root:getting all clients
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 11:57:52] "[37mGET /clientsl HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 11:58:01] "[33mGET /clients/ HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 11:58:16] "[33mGET /clients/ HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\JMDel\\PycharmProjects\\Project0\\controllers\\client_controller.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Started
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 335-881-555
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:root:Started
+INFO:werkzeug: * Restarting with stat
+INFO:root:Started
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 335-881-555
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:root:getting all clients
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 11:58:25] "[37mGET /clients/ HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 11:58:29] "[32mGET /clients HTTP/1.1[0m" 308 -
+INFO:root:getting all clients
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 11:58:29] "[37mGET /clients/ HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 11:58:37] "[31m[1mGET /clients/a HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 11:59:26] "[31m[1mGET /clients/11 HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 11:59:36] "[31m[1mGET /clients/10 HTTP/1.1[0m" 400 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\JMDel\\PycharmProjects\\Project0\\controllers\\client_controller.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Started
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 335-881-555
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:root:Started
+INFO:werkzeug: * Restarting with stat
+INFO:root:Started
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 335-881-555
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 12:02:16] "[31m[1mGET /clients/10 HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 12:02:28] "[31m[1mGET /clients/m HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 12:02:32] "[31m[1mGET /clients/m HTTP/1.1[0m" 400 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\JMDel\\PycharmProjects\\Project0\\controllers\\client_controller.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Started
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 335-881-555
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 12:02:51] "[31m[1mGET /clients/m HTTP/1.1[0m" 400 -
+INFO:root:Started
+INFO:werkzeug: * Restarting with stat
+INFO:root:Started
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 335-881-555
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 12:03:04] "[31m[1mGET /clients/m HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 12:03:24] "[31m[1mGET /clients/m HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 12:03:53] "[31m[1mGET /clients/1 HTTP/1.1[0m" 400 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\JMDel\\PycharmProjects\\Project0\\controllers\\client_controller.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Started
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 335-881-555
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\JMDel\\PycharmProjects\\Project0\\controllers\\client_controller.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Started
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 335-881-555
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 12:07:29] "[37mGET /clients/1 HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 12:07:34] "[31m[1mGET /clients/m HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 12:07:43] "[37mGET /clients/9 HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\JMDel\\PycharmProjects\\Project0\\services\\client_service_impl.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Started
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 335-881-555
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:root:getting all clients
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 12:08:52] "[37mGET /clients/ HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 12:09:00] "[37mGET /clients/11 HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\JMDel\\PycharmProjects\\Project0\\services\\client_service_impl.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Started
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 335-881-555
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\JMDel\\PycharmProjects\\Project0\\services\\client_service_impl.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Started
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 335-881-555
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 12:10:42] "[37mGET /clients/11 HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\JMDel\\PycharmProjects\\Project0\\daos\\client_dao_impl.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Started
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 335-881-555
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:root:Updating client
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 12:37:29] "[35m[1mPUT /clients/11 HTTP/1.1[0m" 500 -
+INFO:root:Started
+INFO:werkzeug: * Restarting with stat
+INFO:root:Started
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 335-881-555
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:root:Updating client
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 12:39:47] "[35m[1mPUT /clients/1 HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\JMDel\\PycharmProjects\\Project0\\controllers\\client_controller.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Started
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 335-881-555
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:root:Updating client
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 12:40:10] "[35m[1mPUT /clients/1 HTTP/1.1[0m" 500 -
+INFO:root:Updating client
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 12:40:35] "[35m[1mPUT /clients/1 HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\JMDel\\PycharmProjects\\Project0\\controllers\\client_controller.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Started
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 335-881-555
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:root:Started
+INFO:werkzeug: * Restarting with stat
+INFO:root:Started
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 335-881-555
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:root:Updating client
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 12:40:44] "[35m[1mPUT /clients/1 HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\JMDel\\PycharmProjects\\Project0\\controllers\\client_controller.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Started
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 335-881-555
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:root:Updating client
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 12:40:59] "[33mPUT /clients/e HTTP/1.1[0m" 404 -
+INFO:root:Updating client
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 12:42:08] "[35m[1mPUT /clients/1 HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\JMDel\\PycharmProjects\\Project0\\daos\\client_dao_impl.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Started
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 335-881-555
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:root:Started
+INFO:werkzeug: * Restarting with stat
+INFO:root:Started
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 335-881-555
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:root:Updating client
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 12:43:14] "[35m[1mPUT /clients/1 HTTP/1.1[0m" 500 -
+INFO:root:Started
+INFO:werkzeug: * Restarting with stat
+INFO:root:Started
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 335-881-555
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:root:Updating client
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 12:43:51] "[35m[1mPUT /clients/1 HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\JMDel\\PycharmProjects\\Project0\\daos\\client_dao_impl.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Started
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 335-881-555
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:root:Updating client
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 12:46:57] "[35m[1mPUT /clients/1 HTTP/1.1[0m" 500 -
+INFO:root:Updating client
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 12:47:37] "[35m[1mPUT /clients/1 HTTP/1.1[0m" 500 -
+INFO:root:Started
+INFO:werkzeug: * Restarting with stat
+INFO:root:Started
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 335-881-555
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:root:Updating client
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 12:47:45] "[35m[1mPUT /clients/1 HTTP/1.1[0m" 500 -
+INFO:root:Started
+INFO:werkzeug: * Restarting with stat
+INFO:root:Started
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 335-881-555
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:root:Updating client
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 12:49:15] "[35m[1mPUT /clients/1 HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\JMDel\\PycharmProjects\\Project0\\controllers\\client_controller.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Started
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 335-881-555
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:root:Updating client
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 12:50:15] "[37mPUT /clients/1 HTTP/1.1[0m" 200 -
+INFO:root:Updating client
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 12:50:31] "[37mPUT /clients/20 HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\JMDel\\PycharmProjects\\Project0\\daos\\client_dao_impl.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Started
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 335-881-555
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\JMDel\\PycharmProjects\\Project0\\daos\\client_dao_impl.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Started
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 335-881-555
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:root:Updating client
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 12:53:11] "[37mPUT /clients/20 HTTP/1.1[0m" 200 -
+INFO:root:Updating client
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 12:53:23] "[37mPUT /clients/2 HTTP/1.1[0m" 200 -
+INFO:root:Updating client
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 12:56:39] "[37mPUT /clients/8 HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\JMDel\\PycharmProjects\\Project0\\daos\\client_dao_impl.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Started
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 335-881-555
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:root:Updating client
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 12:57:20] "[37mPUT /clients/8 HTTP/1.1[0m" 200 -
+INFO:root:Updating client
+INFO:werkzeug: * Detected change in 'C:\\Users\\JMDel\\PycharmProjects\\Project0\\daos\\client_dao_impl.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Started
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 335-881-555
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:root:Updating client
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 12:58:55] "[37mPUT /clients/8 HTTP/1.1[0m" 200 -
+INFO:root:Started
+INFO:werkzeug: * Restarting with stat
+INFO:root:Started
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 335-881-555
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:root:Updating client
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 12:59:33] "[37mPUT /clients/8 HTTP/1.1[0m" 200 -
+INFO:root:Updating client
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 12:59:45] "[37mPUT /clients/1000 HTTP/1.1[0m" 200 -
+INFO:root:Updating client
+INFO:werkzeug: * Detected change in 'C:\\Users\\JMDel\\PycharmProjects\\Project0\\daos\\client_dao_impl.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Started
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 335-881-555
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:root:Started
+INFO:werkzeug: * Restarting with stat
+INFO:root:Started
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 335-881-555
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:root:Updating client
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 13:00:23] "[37mPUT /clients/1000 HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\JMDel\\PycharmProjects\\Project0\\daos\\client_dao_impl.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Started
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 335-881-555
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:root:Updating client
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 13:01:08] "[37mPUT /clients/1000 HTTP/1.1[0m" 200 -
+INFO:root:Started
+INFO:werkzeug: * Restarting with stat
+INFO:root:Started
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 335-881-555
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:root:Updating client
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 13:01:25] "[37mPUT /clients/1000 HTTP/1.1[0m" 200 -
+INFO:root:Updating client
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 13:01:34] "[37mPUT /clients/8 HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\JMDel\\PycharmProjects\\Project0\\daos\\client_dao_impl.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Started
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 335-881-555
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\JMDel\\PycharmProjects\\Project0\\daos\\client_dao_impl.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Started
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 335-881-555
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:root:Updating client
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 13:02:37] "[37mPUT /clients/8 HTTP/1.1[0m" 200 -
+INFO:root:Updating client
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 13:02:43] "[33mPUT /clients/10000 HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\JMDel\\PycharmProjects\\Project0\\daos\\client_dao_impl.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Started
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 335-881-555
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\JMDel\\PycharmProjects\\Project0\\daos\\client_dao_impl.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Started
+INFO:werkzeug: * Restarting with stat
+INFO:root:Started
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 335-881-555
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:root:Deleting Client
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 13:34:05] "[35m[1mDELETE /clients/3 HTTP/1.1[0m" 500 -
+INFO:root:Deleting Client
+INFO:werkzeug: * Detected change in 'C:\\Users\\JMDel\\PycharmProjects\\Project0\\services\\client_service_impl.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Started
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 335-881-555
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:root:Started
+INFO:werkzeug: * Restarting with stat
+INFO:root:Started
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 335-881-555
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:root:Deleting Client
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 13:35:50] "[33mDELETE /clients/3 HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\JMDel\\PycharmProjects\\Project0\\daos\\client_dao_impl.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Started
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 335-881-555
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:root:Deleting Client
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 13:36:12] "[33mDELETE /clients/%20m HTTP/1.1[0m" 404 -
+INFO:root:Deleting Client
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 13:36:20] "[33mDELETE /clients/%204 HTTP/1.1[0m" 404 -
+INFO:root:Deleting Client
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 13:36:28] "[37mDELETE /clients/4 HTTP/1.1[0m" 205 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\JMDel\\PycharmProjects\\Project0\\daos\\client_dao_impl.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Started
+INFO:werkzeug: * Restarting with stat
+INFO:root:Started
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 335-881-555
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 13:51:25] "[33mPOST /clients/4/account HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 13:52:17] "[33mPOST /clients/4/account HTTP/1.1[0m" 404 -
+INFO:root:Creating account for client id=4
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 13:52:29] "[35m[1mPOST /clients/4/accounts HTTP/1.1[0m" 500 -
+INFO:root:Started
+INFO:werkzeug: * Restarting with stat
+INFO:root:Started
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 335-881-555
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:root:Creating account for client id=4
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 13:56:49] "[35m[1mPOST /clients/4/accounts HTTP/1.1[0m" 500 -
+INFO:root:Started
+INFO:werkzeug: * Restarting with stat
+INFO:root:Started
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 335-881-555
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:root:Creating account for client id=4
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 14:01:05] "[35m[1mPOST /clients/4/accounts HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\JMDel\\PycharmProjects\\Project0\\controllers\\client_controller.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Started
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 335-881-555
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:root:Creating account for client id=4
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 14:05:30] "[35m[1mPOST /clients/4/accounts HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 14:06:06] "[35m[1mPOST /clients/4/accounts HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 14:17:44] "[35m[1mPOST /clients/4/accounts HTTP/1.1[0m" 500 -
+INFO:root:Started
+INFO:werkzeug: * Restarting with stat
+INFO:root:Started
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 335-881-555
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:root:Creating account for client id=4
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 14:19:02] "[35m[1mPOST /clients/4/accounts HTTP/1.1[0m" 500 -
+INFO:root:Started
+INFO:werkzeug: * Restarting with stat
+INFO:root:Started
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 335-881-555
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 14:21:29] "[33mPOST /clients/4/accounts HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\JMDel\\PycharmProjects\\Project0\\controllers\\client_controller.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Started
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 335-881-555
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:root:Creating account for client id=5
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 14:21:59] "[35m[1mPOST /clients/5/accounts HTTP/1.1[0m" 500 -
+INFO:root:Started
+INFO:werkzeug: * Restarting with stat
+INFO:root:Started
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 335-881-555
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:root:Creating account for client id=5
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 14:22:40] "[35m[1mPOST /clients/5/accounts HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\JMDel\\PycharmProjects\\Project0\\services\\account_service_impl.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Started
+INFO:werkzeug: * Restarting with stat
+INFO:root:Started
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 335-881-555
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:root:Creating account for client id=5
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 14:40:01] "[35m[1mPOST /clients/5/accounts HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\JMDel\\PycharmProjects\\Project0\\daos\\account_dao_impl.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Started
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 335-881-555
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:root:Creating account for client id=5
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 14:40:53] "[37mPOST /clients/5/accounts HTTP/1.1[0m" 201 -
+INFO:root:Started
+INFO:werkzeug: * Restarting with stat
+INFO:root:Started
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 335-881-555
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\JMDel\\PycharmProjects\\Project0\\controllers\\client_controller.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Started
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 335-881-555
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\JMDel\\PycharmProjects\\Project0\\controllers\\client_controller.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Started
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 335-881-555
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 14:57:01] "[32mGET /clients/5/accounts HTTP/1.1[0m" 308 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 14:57:01] "[37mGET /clients/5/accounts/ HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\JMDel\\PycharmProjects\\Project0\\controllers\\client_controller.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Started
+INFO:werkzeug: * Restarting with stat
+INFO:root:Started
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 335-881-555
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 15:28:44] "[32mGET /clients/5/accounts HTTP/1.1[0m" 308 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 15:28:44] "[37mGET /clients/5/accounts/ HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 15:29:43] "[32mGET /clients/20/accounts HTTP/1.1[0m" 308 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 15:29:45] "[37mGET /clients/20/accounts/ HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\JMDel\\PycharmProjects\\Project0\\controllers\\client_controller.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Started
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 335-881-555
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 15:34:00] "[32mGET /clients/20/accounts HTTP/1.1[0m" 308 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 15:34:01] "[37mGET /clients/20/accounts/ HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 15:34:02] "[32mGET /clients/20/accounts HTTP/1.1[0m" 308 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 15:34:02] "[37mGET /clients/20/accounts/ HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 15:34:04] "[32mGET /clients/20/accounts HTTP/1.1[0m" 308 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 15:34:04] "[37mGET /clients/20/accounts/ HTTP/1.1[0m" 200 -
+INFO:root:Started
+INFO:werkzeug: * Restarting with stat
+INFO:root:Started
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 335-881-555
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 15:34:10] "[32mGET /clients/20/accounts HTTP/1.1[0m" 308 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 15:34:10] "[37mGET /clients/20/accounts/ HTTP/1.1[0m" 200 -
+INFO:root:Started
+INFO:werkzeug: * Restarting with stat
+INFO:root:Started
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 335-881-555
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 15:34:39] "[32mGET /clients/20/accounts HTTP/1.1[0m" 308 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 15:34:40] "[37mGET /clients/20/accounts/ HTTP/1.1[0m" 200 -
+INFO:root:Started
+INFO:werkzeug: * Restarting with stat
+INFO:root:Started
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 335-881-555
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 15:35:41] "[32mGET /clients/20/accounts HTTP/1.1[0m" 308 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 15:35:41] "[37mGET /clients/20/accounts/ HTTP/1.1[0m" 200 -
+INFO:root:Started
+INFO:werkzeug: * Restarting with stat
+INFO:root:Started
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 335-881-555
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 15:35:57] "[32mGET /clients/20/accounts HTTP/1.1[0m" 308 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 15:35:57] "[37mGET /clients/20/accounts/ HTTP/1.1[0m" 200 -
+INFO:root:Started
+INFO:werkzeug: * Restarting with stat
+INFO:root:Started
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 335-881-555
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 15:36:14] "[32mGET /clients/20/accounts HTTP/1.1[0m" 308 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 15:36:14] "[37mGET /clients/20/accounts/ HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 15:36:16] "[32mGET /clients/20/accounts HTTP/1.1[0m" 308 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 15:36:16] "[37mGET /clients/20/accounts/ HTTP/1.1[0m" 200 -
+INFO:root:Started
+INFO:werkzeug: * Restarting with stat
+INFO:root:Started
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 335-881-555
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 15:36:40] "[32mGET /clients/20/accounts HTTP/1.1[0m" 308 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 15:36:44] "[37mGET /clients/20/accounts/ HTTP/1.1[0m" 200 -
+INFO:root:Started
+INFO:werkzeug: * Restarting with stat
+INFO:root:Started
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 335-881-555
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 15:38:05] "[32mGET /clients/20/accounts HTTP/1.1[0m" 308 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 15:38:08] "[37mGET /clients/20/accounts/ HTTP/1.1[0m" 200 -
+INFO:root:Started
+INFO:werkzeug: * Restarting with stat
+INFO:root:Started
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 335-881-555
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 15:38:49] "[32mGET /clients/20/accounts HTTP/1.1[0m" 308 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 15:38:50] "[37mGET /clients/20/accounts/ HTTP/1.1[0m" 200 -
+INFO:root:Started
+INFO:werkzeug: * Restarting with stat
+INFO:root:Started
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 335-881-555
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 15:39:03] "[32mGET /clients/20/accounts HTTP/1.1[0m" 308 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 15:39:04] "[37mGET /clients/20/accounts/ HTTP/1.1[0m" 200 -
+INFO:root:Started
+INFO:werkzeug: * Restarting with stat
+INFO:root:Started
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 335-881-555
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 15:39:25] "[32mGET /clients/20/accounts HTTP/1.1[0m" 308 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 15:39:26] "[37mGET /clients/20/accounts/ HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 15:39:37] "[32mGET /clients/20/accounts HTTP/1.1[0m" 308 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 15:39:38] "[37mGET /clients/20/accounts/ HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 15:57:26] "[32mGET /clients/20/accounts HTTP/1.1[0m" 308 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 15:57:27] "[37mGET /clients/20/accounts/ HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\JMDel\\PycharmProjects\\Project0\\controllers\\client_controller.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Started
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 335-881-555
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\JMDel\\PycharmProjects\\Project0\\controllers\\client_controller.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Started
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 335-881-555
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 15:59:47] "[32mGET /clients/20/accounts HTTP/1.1[0m" 308 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 15:59:47] "[33mGET /clients/20/accounts/ HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\JMDel\\PycharmProjects\\Project0\\controllers\\client_controller.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Started
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 335-881-555
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 16:00:44] "[32mGET /clients/1/accounts HTTP/1.1[0m" 308 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 16:00:44] "[37mGET /clients/1/accounts/ HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 16:00:52] "[32mGET /clients/5/accounts HTTP/1.1[0m" 308 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 16:00:52] "[37mGET /clients/5/accounts/ HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 16:26:28] "[32mGET /clients/1/accounts?amountLessThan=2000&amountGreaterThan=4000 HTTP/1.1[0m" 308 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 16:26:28] "[37mGET /clients/1/accounts/?amountLessThan=2000&amountGreaterThan=4000 HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 16:27:10] "[32mGET /clients/1/accounts?amountLessThan=2000&amountGreaterThan=50000 HTTP/1.1[0m" 308 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 16:27:10] "[37mGET /clients/1/accounts/?amountLessThan=2000&amountGreaterThan=50000 HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 16:27:21] "[32mGET /clients/1/accounts?amountLessThan=2000&amountGreaterThan=a HTTP/1.1[0m" 308 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 16:27:21] "[33mGET /clients/1/accounts/?amountLessThan=2000&amountGreaterThan=a HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\JMDel\\PycharmProjects\\Project0\\controllers\\client_controller.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Started
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 335-881-555
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:root:Started
+INFO:werkzeug: * Restarting with stat
+INFO:root:Started
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 335-881-555
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 17:07:43] "[37mGET /clients/9/accounts/4 HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 17:07:49] "[37mGET /clients/9/accounts/4 HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\JMDel\\PycharmProjects\\Project0\\controllers\\client_controller.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Started
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 335-881-555
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:root:Started
+INFO:werkzeug: * Restarting with stat
+INFO:root:Started
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 335-881-555
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 17:08:13] "[37mGET /clients/9/accounts/4 HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 17:08:26] "[37mGET /clients/9/accounts/4 HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\JMDel\\PycharmProjects\\Project0\\controllers\\client_controller.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Started
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 335-881-555
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\JMDel\\PycharmProjects\\Project0\\daos\\client_dao_impl.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Started
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 335-881-555
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:root:Started
+INFO:werkzeug: * Restarting with stat
+INFO:root:Started
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 335-881-555
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 17:09:12] "[37mGET /clients/9/accounts/4 HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 17:09:14] "[37mGET /clients/9/accounts/4 HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\JMDel\\PycharmProjects\\Project0\\controllers\\client_controller.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Started
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 335-881-555
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 17:10:29] "[37mGET /clients/9/accounts/4 HTTP/1.1[0m" 200 -
+INFO:root:Started
+INFO:werkzeug: * Restarting with stat
+INFO:root:Started
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 335-881-555
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 17:35:42] "[35m[1mGET /clients/1/accounts/4 HTTP/1.1[0m" 500 -
+INFO:root:Started
+INFO:werkzeug: * Restarting with stat
+INFO:root:Started
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 335-881-555
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 17:36:31] "[37mGET /clients/1/accounts/4 HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 17:36:36] "[37mGET /clients/1/accounts/4 HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 17:36:38] "[37mGET /clients/1/accounts/4 HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 17:37:06] "[37mGET /clients/1/accounts/47 HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 17:37:13] "[37mGET /clients/1/accounts/ HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\JMDel\\PycharmProjects\\Project0\\controllers\\client_controller.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Started
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 335-881-555
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\JMDel\\PycharmProjects\\Project0\\controllers\\client_controller.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Started
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 335-881-555
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\JMDel\\PycharmProjects\\Project0\\controllers\\client_controller.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Started
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 335-881-555
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\JMDel\\PycharmProjects\\Project0\\daos\\account_dao_impl.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Started
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 335-881-555
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 19:09:08] "[37mPUT /clients/1/accounts/2 HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\JMDel\\PycharmProjects\\Project0\\services\\account_service_impl.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Started
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 335-881-555
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\JMDel\\PycharmProjects\\Project0\\services\\account_service_impl.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Started
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 335-881-555
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 19:12:02] "[31m[1mPUT /clients/1/accounts/ HTTP/1.1[0m" 405 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\JMDel\\PycharmProjects\\Project0\\controllers\\client_controller.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Started
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 335-881-555
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:root:Started
+INFO:werkzeug: * Restarting with stat
+INFO:root:Started
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 335-881-555
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 19:12:23] "[37mPUT /clients/1/accounts/1 HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 19:12:33] "[37mPUT /clients/1/accounts/50 HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 19:17:05] "[35m[1mPUT /clients/1/accounts/50 HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\JMDel\\PycharmProjects\\Project0\\controllers\\client_controller.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Started
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 335-881-555
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:root:Started
+INFO:werkzeug: * Restarting with stat
+INFO:root:Started
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 335-881-555
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 19:17:19] "[37mPUT /clients/1/accounts/50 HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 19:17:25] "[37mPUT /clients/1/accounts/50 HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\JMDel\\PycharmProjects\\Project0\\controllers\\client_controller.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Started
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 335-881-555
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 19:18:44] "[37mPUT /clients/1/accounts/50 HTTP/1.1[0m" 200 -
+INFO:root:Started
+INFO:werkzeug: * Restarting with stat
+INFO:root:Started
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 335-881-555
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 19:20:09] "[37mPUT /clients/1/accounts/50 HTTP/1.1[0m" 200 -
+INFO:root:Started
+INFO:werkzeug: * Restarting with stat
+INFO:root:Started
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 335-881-555
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\JMDel\\PycharmProjects\\Project0\\controllers\\client_controller.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Started
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 335-881-555
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 19:21:11] "[37mPUT /clients/1/accounts/50 HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 19:21:33] "[37mPUT /clients/1/accounts/50 HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\JMDel\\PycharmProjects\\Project0\\controllers\\client_controller.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Started
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 335-881-555
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:root:Started
+INFO:werkzeug: * Restarting with stat
+INFO:root:Started
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 335-881-555
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 19:22:05] "[33mPUT /clients/1/accounts/50 HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\JMDel\\PycharmProjects\\Project0\\controllers\\client_controller.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Started
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 335-881-555
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 19:22:44] "[33mPUT /clients/50/accounts/50 HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 19:22:50] "[33mPUT /clients/50/accounts/5d HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 19:22:56] "[33mPUT /clients/d/accounts/5d HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 19:23:33] "[37mPUT /clients/5/accounts/11 HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\JMDel\\PycharmProjects\\Project0\\controllers\\client_controller.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Started
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 335-881-555
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\JMDel\\PycharmProjects\\Project0\\controllers\\client_controller.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Started
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 335-881-555
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\JMDel\\PycharmProjects\\Project0\\services\\account_service_impl.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Started
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 335-881-555
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\JMDel\\PycharmProjects\\Project0\\services\\account_service_impl.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Started
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 335-881-555
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 19:56:04] "[37mPUT /clients/5/accounts/11 HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\JMDel\\PycharmProjects\\Project0\\controllers\\client_controller.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Started
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 335-881-555
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 20:26:05] "[35m[1mPATCH /clients/5/accounts/11 HTTP/1.1[0m" 500 -
+INFO:root:Started
+INFO:werkzeug: * Restarting with stat
+INFO:root:Started
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 335-881-555
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 20:26:30] "[35m[1mPATCH /clients/5/accounts/11 HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 20:27:40] "[35m[1mPATCH /clients/5/accounts/11 HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\JMDel\\PycharmProjects\\Project0\\controllers\\client_controller.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Started
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 335-881-555
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:root:Started
+INFO:werkzeug: * Restarting with stat
+INFO:root:Started
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 335-881-555
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 20:28:17] "[35m[1mPATCH /clients/5/accounts/11 HTTP/1.1[0m" 500 -
+INFO:root:Started
+INFO:werkzeug: * Restarting with stat
+INFO:root:Started
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 335-881-555
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 20:30:17] "[35m[1mPATCH /clients/5/accounts/11 HTTP/1.1[0m" 500 -
+INFO:root:Started
+INFO:werkzeug: * Restarting with stat
+INFO:root:Started
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 335-881-555
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 20:30:57] "[37mPATCH /clients/5/accounts/11 HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 20:31:03] "[37mPATCH /clients/5/accounts/11 HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 20:42:40] "[35m[1mPATCH /clients/5/accounts/11 HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\JMDel\\PycharmProjects\\Project0\\controllers\\client_controller.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Started
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 335-881-555
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 20:43:26] "[35m[1mPATCH /clients/5/accounts/11 HTTP/1.1[0m" 500 -
+INFO:root:Started
+INFO:werkzeug: * Restarting with stat
+INFO:root:Started
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 335-881-555
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 20:43:36] "[35m[1mPATCH /clients/5/accounts/11 HTTP/1.1[0m" 500 -
+INFO:root:Started
+INFO:werkzeug: * Restarting with stat
+INFO:root:Started
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 335-881-555
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 20:44:13] "[37mPATCH /clients/5/accounts/11 HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 20:44:25] "[35m[1mPATCH /clients/5/accounts/11 HTTP/1.1[0m" 500 -
+INFO:root:Started
+INFO:werkzeug: * Restarting with stat
+INFO:root:Started
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 335-881-555
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 20:45:10] "[37mPATCH /clients/5/accounts/11 HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\JMDel\\PycharmProjects\\Project0\\controllers\\client_controller.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Started
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 335-881-555
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 20:47:01] "[31m[1mPATCH /clients/5/accounts/11 HTTP/1.1[0m" 422 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\JMDel\\PycharmProjects\\Project0\\controllers\\client_controller.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Started
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 335-881-555
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\JMDel\\PycharmProjects\\Project0\\controllers\\client_controller.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Started
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 335-881-555
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\JMDel\\PycharmProjects\\Project0\\services\\account_service_impl.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Started
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 335-881-555
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 21:26:42] "[37mPATCH /clients/1/accounts/3/transfer/9 HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 21:27:33] "[37mPATCH /clients/1/accounts/3/transfer/9 HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 21:28:13] "[37mPATCH /clients/1/accounts/3/transfer/9 HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 21:28:26] "[37mPATCH /clients/1/accounts/3/transfer/2 HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 21:28:50] "[37mPATCH /clients/1/accounts/3/transfer/2 HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 21:28:56] "[37mPATCH /clients/1/accounts/3/transfer/2 HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 21:53:19] "[31m[1mPATCH /clients HTTP/1.1[0m" 405 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 21:53:57] "[37mPOST /clients HTTP/1.1[0m" 200 -
+INFO:root:creating client Pedro
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 21:54:42] "[37mPOST /clients HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\JMDel\\PycharmProjects\\Project0\\controllers\\client_controller.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Started
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 335-881-555
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:root:creating client Zach
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 21:55:01] "[37mPOST /clients HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 22:03:30] "[32mGET /clients HTTP/1.1[0m" 308 -
+INFO:root:getting all clients
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 22:03:30] "[37mGET /clients/ HTTP/1.1[0m" 200 -
+INFO:root:creating client Zach
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 22:04:24] "[37mPOST /clients HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 22:04:24] "[32mGET /clients HTTP/1.1[0m" 308 -
+INFO:root:getting all clients
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 22:04:24] "[37mGET /clients/ HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 22:05:12] "[32mGET /clients HTTP/1.1[0m" 308 -
+INFO:root:getting all clients
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 22:05:12] "[37mGET /clients/ HTTP/1.1[0m" 200 -
+INFO:root:creating client Zach
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 22:05:24] "[37mPOST /clients HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 22:05:24] "[32mGET /clients HTTP/1.1[0m" 308 -
+INFO:root:getting all clients
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 22:05:24] "[37mGET /clients/ HTTP/1.1[0m" 200 -
+INFO:root:creating client Zach
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 22:05:54] "[37mPOST /clients HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 22:05:54] "[32mGET /clients HTTP/1.1[0m" 308 -
+INFO:root:getting all clients
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 22:05:55] "[37mGET /clients/ HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 22:10:51] "[37mGET /clients/1 HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 22:10:58] "[37mGET /clients/12 HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 22:11:16] "[37mGET /clients/11 HTTP/1.1[0m" 200 -
+INFO:root:Updating client
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 22:17:52] "[37mPUT /clients/11 HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 22:22:12] "[32mGET /clients HTTP/1.1[0m" 308 -
+INFO:root:getting all clients
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 22:22:12] "[37mGET /clients/ HTTP/1.1[0m" 200 -
+INFO:root:Deleting Client
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 22:22:24] "[37mDELETE /clients/8 HTTP/1.1[0m" 205 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 22:22:55] "[32mGET /clients HTTP/1.1[0m" 308 -
+INFO:root:getting all clients
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 22:22:55] "[37mGET /clients/ HTTP/1.1[0m" 200 -
+INFO:root:Creating account for client id=9
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 22:31:31] "[37mPOST /clients/9/accounts HTTP/1.1[0m" 201 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 22:34:34] "[32mGET /clients/9/accounts HTTP/1.1[0m" 308 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 22:34:34] "[37mGET /clients/9/accounts/ HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 22:34:46] "[32mGET /clients/1/accounts HTTP/1.1[0m" 308 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 22:34:46] "[37mGET /clients/1/accounts/ HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 22:35:00] "[32mGET /clients/500/accounts HTTP/1.1[0m" 308 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 22:35:01] "[33mGET /clients/500/accounts/ HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 22:43:43] "[32mGET /clients/1/accounts HTTP/1.1[0m" 308 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 22:43:44] "[37mGET /clients/1/accounts/ HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 22:46:36] "[32mGET /clients/1/accounts?amountLessThan=2000&amountGreaterThan=50000 HTTP/1.1[0m" 308 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 22:46:36] "[37mGET /clients/1/accounts/?amountLessThan=2000&amountGreaterThan=50000 HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 22:48:20] "[37mGET /clients/1/accounts/2 HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 23:01:51] "[37mPUT /clients/1/accounts/3 HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 23:06:55] "[35m[1mDELETE /clients/5/accounts/10 HTTP/1.1[0m" 500 -
+INFO:root:Started
+INFO:werkzeug: * Restarting with stat
+INFO:root:Started
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 335-881-555
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:root:Started
+INFO:werkzeug: * Restarting with stat
+INFO:root:Started
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 335-881-555
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 23:09:42] "[33mDELETE /clients/5/accounts/10 HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 23:45:53] "[37mGET /clients/5/accounts/10 HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 23:47:35] "[35m[1mPATCH /clients/5/accounts/12 HTTP/1.1[0m" 500 -
+INFO:root:Started
+INFO:werkzeug: * Restarting with stat
+INFO:root:Started
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 335-881-555
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 23:50:12] "[35m[1mPATCH /clients/5/accounts/12 HTTP/1.1[0m" 500 -
+INFO:root:Started
+INFO:werkzeug: * Restarting with stat
+INFO:root:Started
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 335-881-555
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 23:51:21] "[31m[1mPATCH /clients/5/accounts/12 HTTP/1.1[0m" 422 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 23:51:35] "[37mPATCH /clients/5/accounts/12 HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/Apr/2021 23:57:42] "[37mPATCH /clients/5/accounts/12 HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\JMDel\\PycharmProjects\\Project0\\controllers\\client_controller.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Started
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 335-881-555
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 00:01:25] "[37mPATCH /clients/1/accounts/4/transfer/3 HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 00:01:51] "[37mPATCH /clients/1/accounts/4/transfer/3 HTTP/1.1[0m" 200 -
+INFO:root:creating client Zach
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 00:02:44] "[37mPOST /clients HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 00:02:44] "[32mGET /clients HTTP/1.1[0m" 308 -
+INFO:root:getting all clients
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 00:02:45] "[37mGET /clients/ HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 00:02:45] "[37mGET /clients/11 HTTP/1.1[0m" 200 -
+INFO:root:Updating client
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 00:02:45] "[37mPUT /clients/11 HTTP/1.1[0m" 200 -
+INFO:root:Deleting Client
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 00:02:46] "[33mDELETE /clients/8 HTTP/1.1[0m" 404 -
+INFO:root:Creating account for client id=9
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 00:02:46] "[37mPOST /clients/9/accounts HTTP/1.1[0m" 201 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 00:02:46] "[32mGET /clients/1/accounts HTTP/1.1[0m" 308 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 00:02:47] "[37mGET /clients/1/accounts/ HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 00:02:47] "[32mGET /clients/1/accounts?amountLessThan=2000&amountGreaterThan=50000 HTTP/1.1[0m" 308 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 00:02:48] "[37mGET /clients/1/accounts/?amountLessThan=2000&amountGreaterThan=50000 HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 00:02:48] "[37mGET /clients/1/accounts/2 HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 00:02:48] "[37mPUT /clients/1/accounts/3 HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 00:02:48] "[33mDELETE /clients/5/accounts/10 HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 00:02:49] "[37mPATCH /clients/5/accounts/12 HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 00:02:49] "[37mPATCH /clients/5/accounts/12 HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 00:02:50] "[37mPATCH /clients/1/accounts/4/transfer/3 HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\JMDel\\PycharmProjects\\Project0\\services\\client_service_impl.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Started
+INFO:werkzeug: * Restarting with stat
+INFO:root:Started
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 335-881-555
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 09:56:47] "[33mPOST /clients%20%20%20%20%20 HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 09:57:12] "[33mPOST /clients%20%20%20%20%20 HTTP/1.1[0m" 404 -
+INFO:root:creating client Zach
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 09:57:29] "[37mPOST /clients HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 09:57:46] "[33mPOST /clients%20%20%20%20%20%20%20%20%20 HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 09:57:56] "[33mPOST /clients%20%20%20%20%20%20%20%20%20 HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 09:58:08] "[32mGET /clients HTTP/1.1[0m" 308 -
+INFO:root:getting all clients
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 09:58:08] "[37mGET /clients/ HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 09:58:15] "[33mGET /clients%20%20%20%20%20%20%20 HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 09:59:11] "[33mPOST /clients%20%20%20%20%20%20%20%20%20 HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 09:59:35] "[33mPOST /clients%20%20%20%20%20%20%20%20%20 HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 09:59:45] "[37mPOST /clients HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 10:00:05] "[37mPOST /clients HTTP/1.1[0m" 200 -
+INFO:root:Started
+INFO:werkzeug: * Restarting with stat
+INFO:root:Started
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 335-881-555
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 10:00:20] "[31m[1mPOST /clients HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 10:00:55] "[33mGET /clients/aaa HTTP/1.1[0m" 404 -
+INFO:root:Updating client
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 10:02:05] "[35m[1mPUT /clients/11 HTTP/1.1[0m" 500 -
+INFO:root:Updating client
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 10:02:44] "[33mPUT /clients/rr HTTP/1.1[0m" 404 -
+INFO:root:Deleting Client
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 10:02:56] "[33mDELETE /clients/rr HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 10:03:22] "[33mPOST /clients/r/accounts HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 10:03:42] "[32mGET /clients/1=4===/accounts HTTP/1.1[0m" 308 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 10:03:42] "[33mGET /clients/1%3D4%3D%3D%3D/accounts/ HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 10:04:09] "[33mGET /clients/1/accounts/r HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 10:04:48] "[33mPUT /clients/1/accounts/r HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 10:04:57] "[33mDELETE /clients/5/accounts/rr HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 10:05:10] "[31m[1mPOST /clients HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 10:05:10] "[32mGET /clients HTTP/1.1[0m" 308 -
+INFO:root:getting all clients
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 10:05:11] "[37mGET /clients/ HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 10:05:11] "[33mGET /clients/aaa HTTP/1.1[0m" 404 -
+INFO:root:Updating client
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 10:05:11] "[33mPUT /clients/rr HTTP/1.1[0m" 404 -
+INFO:root:Deleting Client
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 10:05:11] "[33mDELETE /clients/rr HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 10:05:11] "[33mPOST /clients/r/accounts HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 10:05:11] "[32mGET /clients/1=4===/accounts HTTP/1.1[0m" 308 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 10:05:11] "[33mGET /clients/1%3D4%3D%3D%3D/accounts/ HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 10:05:11] "[32mGET /clients/1/accounts?amountLessThan=2000&amountGreaterThan=50000 HTTP/1.1[0m" 308 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 10:05:11] "[37mGET /clients/1/accounts/?amountLessThan=2000&amountGreaterThan=50000 HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 10:05:11] "[33mGET /clients/1/accounts/r HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 10:05:11] "[33mPUT /clients/1/accounts/r HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 10:05:12] "[33mDELETE /clients/5/accounts/rr HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 10:05:12] "[37mPATCH /clients/5/accounts/12 HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 10:05:12] "[37mPATCH /clients/5/accounts/12 HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 10:05:13] "[37mPATCH /clients/1/accounts/4/transfer/3 HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 10:05:26] "[31m[1mPOST /clients HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 10:05:31] "[33mGET /clients%20%20%20%20%20%20%20 HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 10:05:38] "[32mGET /clients HTTP/1.1[0m" 308 -
+INFO:root:getting all clients
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 10:05:38] "[37mGET /clients/ HTTP/1.1[0m" 200 -
+INFO:root:Updating client
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 10:06:18] "[33mPUT /clients/rr HTTP/1.1[0m" 404 -
+INFO:root:Updating client
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 10:06:28] "[33mPUT /clients/rr HTTP/1.1[0m" 404 -
+INFO:root:Deleting Client
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 10:06:42] "[33mDELETE /clients/rr HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 10:07:07] "[33mPOST /clients/r/accounts HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 10:07:42] "[32mGET /clients/1/accounts?amountLessThan=2000&amountGreaterThan=50000 HTTP/1.1[0m" 308 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 10:07:42] "[37mGET /clients/1/accounts/?amountLessThan=2000&amountGreaterThan=50000 HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 10:07:53] "[32mGET /clients/r/accounts?amountLessThan=2000&amountGreaterThan=50000 HTTP/1.1[0m" 308 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 10:07:53] "[33mGET /clients/r/accounts/?amountLessThan=2000&amountGreaterThan=50000 HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 10:09:38] "[31m[1mPATCH /clients/5/accounts/12 HTTP/1.1[0m" 422 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 10:10:04] "[33mPATCH /clients/5/accounts/1r HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 10:10:55] "[37mPATCH /clients/1/accounts/4/transfer/3 HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 10:11:04] "[31m[1mPATCH /clients/1/accounts/4/transfer/3 HTTP/1.1[0m" 422 -
+INFO:root:creating client Zach
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 10:20:06] "[37mPOST /clients HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 10:20:07] "[32mGET /clients HTTP/1.1[0m" 308 -
+INFO:root:getting all clients
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 10:20:07] "[37mGET /clients/ HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 10:20:07] "[37mGET /clients/11 HTTP/1.1[0m" 200 -
+INFO:root:Updating client
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 10:20:07] "[37mPUT /clients/11 HTTP/1.1[0m" 200 -
+INFO:root:Deleting Client
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 10:20:08] "[33mDELETE /clients/8 HTTP/1.1[0m" 404 -
+INFO:root:Creating account for client id=9
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 10:20:08] "[37mPOST /clients/9/accounts HTTP/1.1[0m" 201 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 10:20:08] "[32mGET /clients/1/accounts HTTP/1.1[0m" 308 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 10:20:08] "[37mGET /clients/1/accounts/ HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 10:20:08] "[32mGET /clients/1/accounts?amountLessThan=2000&amountGreaterThan=50000 HTTP/1.1[0m" 308 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 10:20:09] "[37mGET /clients/1/accounts/?amountLessThan=2000&amountGreaterThan=50000 HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 10:20:09] "[37mGET /clients/1/accounts/2 HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 10:20:09] "[33mPUT /clients/1/accounts/3 HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 10:20:09] "[33mDELETE /clients/5/accounts/10 HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 10:20:10] "[37mPATCH /clients/5/accounts/12 HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 10:20:10] "[37mPATCH /clients/5/accounts/12 HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 10:20:11] "[37mPATCH /clients/1/accounts/4/transfer/3 HTTP/1.1[0m" 200 -
+INFO:root:Deleting Client
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 10:22:30] "[33mDELETE /clients/8 HTTP/1.1[0m" 404 -
+INFO:root:Deleting Client
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 10:22:45] "[37mDELETE /clients/20 HTTP/1.1[0m" 205 -
+INFO:root:creating client Zach
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 10:29:24] "[37mPOST /clients HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 10:29:24] "[32mGET /clients HTTP/1.1[0m" 308 -
+INFO:root:getting all clients
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 10:29:25] "[37mGET /clients/ HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 10:29:25] "[37mGET /clients/11 HTTP/1.1[0m" 200 -
+INFO:root:Updating client
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 10:29:25] "[37mPUT /clients/11 HTTP/1.1[0m" 200 -
+INFO:root:Deleting Client
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 10:29:25] "[33mDELETE /clients/8 HTTP/1.1[0m" 404 -
+INFO:root:Creating account for client id=9
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 10:29:26] "[37mPOST /clients/9/accounts HTTP/1.1[0m" 201 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 10:29:26] "[32mGET /clients/1/accounts HTTP/1.1[0m" 308 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 10:29:26] "[37mGET /clients/1/accounts/ HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 10:29:26] "[32mGET /clients/1/accounts?amountLessThan=2000&amountGreaterThan=50000 HTTP/1.1[0m" 308 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 10:29:26] "[37mGET /clients/1/accounts/?amountLessThan=2000&amountGreaterThan=50000 HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 10:29:27] "[37mGET /clients/1/accounts/2 HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 10:29:27] "[33mPUT /clients/1/accounts/3 HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 10:29:27] "[33mDELETE /clients/5/accounts/10 HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 10:29:27] "[37mPATCH /clients/5/accounts/12 HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 10:29:28] "[37mPATCH /clients/5/accounts/12 HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 10:29:28] "[37mPATCH /clients/1/accounts/4/transfer/3 HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 10:32:33] "[33mDELETE /clients/9/accounts/3 HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 10:33:00] "[37mDELETE /clients/9/accounts/13 HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 10:33:51] "[31m[1mPATCH /clients/5/accounts/12 HTTP/1.1[0m" 422 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 10:34:01] "[37mPATCH /clients/5/accounts/12 HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 10:34:43] "[37mPATCH /clients/1/accounts/16/transfer/17 HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 10:36:07] "[31m[1mPOST /clients HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 10:36:07] "[32mGET /clients HTTP/1.1[0m" 308 -
+INFO:root:getting all clients
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 10:36:07] "[37mGET /clients/ HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 10:36:07] "[33mGET /clients/aaa HTTP/1.1[0m" 404 -
+INFO:root:Updating client
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 10:36:07] "[33mPUT /clients/rr HTTP/1.1[0m" 404 -
+INFO:root:Deleting Client
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 10:36:07] "[33mDELETE /clients/rr HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 10:36:07] "[33mPOST /clients/r/accounts HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 10:36:08] "[32mGET /clients/1=4===/accounts HTTP/1.1[0m" 308 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 10:36:08] "[33mGET /clients/1%3D4%3D%3D%3D/accounts/ HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 10:36:08] "[32mGET /clients/1/accounts?amountLessThan=2000&amountGreaterThan=50000 HTTP/1.1[0m" 308 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 10:36:08] "[37mGET /clients/1/accounts/?amountLessThan=2000&amountGreaterThan=50000 HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 10:36:08] "[33mGET /clients/1/accounts/r HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 10:36:08] "[33mPUT /clients/1/accounts/r HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 10:36:08] "[33mDELETE /clients/5/accounts/rr HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 10:36:08] "[31m[1mPATCH /clients/5/accounts/12 HTTP/1.1[0m" 422 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 10:36:08] "[33mPATCH /clients/5/accounts/1r HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 10:36:08] "[31m[1mPATCH /clients/1/accounts/4/transfer/3 HTTP/1.1[0m" 422 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 10:36:27] "[31m[1mPOST /clients HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 10:36:27] "[32mGET /clients HTTP/1.1[0m" 308 -
+INFO:root:getting all clients
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 10:36:28] "[37mGET /clients/ HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 10:36:28] "[33mGET /clients/aaa HTTP/1.1[0m" 404 -
+INFO:root:Updating client
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 10:36:28] "[33mPUT /clients/rr HTTP/1.1[0m" 404 -
+INFO:root:Deleting Client
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 10:36:28] "[33mDELETE /clients/rr HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 10:36:28] "[33mPOST /clients/r/accounts HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 10:36:28] "[32mGET /clients/1=4===/accounts HTTP/1.1[0m" 308 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 10:36:28] "[33mGET /clients/1%3D4%3D%3D%3D/accounts/ HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 10:36:28] "[32mGET /clients/1/accounts?amountLessThan=2000&amountGreaterThan=50000 HTTP/1.1[0m" 308 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 10:36:28] "[37mGET /clients/1/accounts/?amountLessThan=2000&amountGreaterThan=50000 HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 10:36:28] "[33mGET /clients/1/accounts/r HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 10:36:28] "[33mPUT /clients/1/accounts/r HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 10:36:28] "[33mDELETE /clients/5/accounts/rr HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 10:36:28] "[31m[1mPATCH /clients/5/accounts/12 HTTP/1.1[0m" 422 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 10:36:29] "[33mPATCH /clients/5/accounts/1r HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 10:36:29] "[31m[1mPATCH /clients/1/accounts/4/transfer/3 HTTP/1.1[0m" 422 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 10:37:01] "[31m[1mPOST /clients HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 10:37:01] "[32mGET /clients HTTP/1.1[0m" 308 -
+INFO:root:getting all clients
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 10:37:01] "[37mGET /clients/ HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 10:37:01] "[33mGET /clients/aaa HTTP/1.1[0m" 404 -
+INFO:root:Updating client
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 10:37:01] "[33mPUT /clients/rr HTTP/1.1[0m" 404 -
+INFO:root:Deleting Client
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 10:37:01] "[33mDELETE /clients/rr HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 10:37:01] "[33mPOST /clients/r/accounts HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 10:37:01] "[32mGET /clients/1=4===/accounts HTTP/1.1[0m" 308 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 10:37:01] "[33mGET /clients/1%3D4%3D%3D%3D/accounts/ HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 10:37:01] "[32mGET /clients/1/accounts?amountLessThan=2000&amountGreaterThan=50000 HTTP/1.1[0m" 308 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 10:37:02] "[37mGET /clients/1/accounts/?amountLessThan=2000&amountGreaterThan=50000 HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 10:37:02] "[33mGET /clients/1/accounts/r HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 10:37:02] "[33mPUT /clients/1/accounts/r HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 10:37:02] "[33mDELETE /clients/5/accounts/rr HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 10:37:02] "[31m[1mPATCH /clients/5/accounts/12 HTTP/1.1[0m" 422 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 10:37:02] "[33mPATCH /clients/5/accounts/1r HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 10:37:02] "[31m[1mPATCH /clients/1/accounts/4/transfer/3 HTTP/1.1[0m" 422 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 10:37:41] "[33mGET /clients/aaa HTTP/1.1[0m" 404 -
+INFO:root:Updating client
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 10:37:54] "[33mPUT /clients/rr HTTP/1.1[0m" 404 -
+INFO:root:Deleting Client
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 10:38:01] "[33mDELETE /clients/rr HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 10:38:14] "[33mPOST /clients/r/accounts HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 10:38:25] "[32mGET /clients/1=4===/accounts HTTP/1.1[0m" 308 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 10:38:25] "[33mGET /clients/1%3D4%3D%3D%3D/accounts/ HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 10:38:35] "[32mGET /clients/r/accounts?amountLessThan=2000&amountGreaterThan=50000 HTTP/1.1[0m" 308 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 10:38:35] "[33mGET /clients/r/accounts/?amountLessThan=2000&amountGreaterThan=50000 HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 10:38:40] "[33mGET /clients/1/accounts/r HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 10:38:51] "[33mPUT /clients/1/accounts/r HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 10:38:57] "[33mDELETE /clients/5/accounts/rr HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 10:41:41] "[31m[1mPOST /clients HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 10:41:41] "[32mGET /clients HTTP/1.1[0m" 308 -
+INFO:root:getting all clients
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 10:41:44] "[37mGET /clients/ HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 10:41:44] "[33mGET /clients/aaa HTTP/1.1[0m" 404 -
+INFO:root:Updating client
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 10:41:44] "[33mPUT /clients/rr HTTP/1.1[0m" 404 -
+INFO:root:Deleting Client
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 10:41:44] "[33mDELETE /clients/rr HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 10:41:44] "[33mPOST /clients/r/accounts HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 10:41:44] "[32mGET /clients/1=4===/accounts HTTP/1.1[0m" 308 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 10:41:44] "[33mGET /clients/1%3D4%3D%3D%3D/accounts/ HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 10:41:44] "[32mGET /clients/1/accounts?amountLessThan=2000&amountGreaterThan=50000 HTTP/1.1[0m" 308 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 10:41:44] "[37mGET /clients/1/accounts/?amountLessThan=2000&amountGreaterThan=50000 HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 10:41:44] "[33mGET /clients/1/accounts/r HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 10:41:44] "[33mPUT /clients/1/accounts/r HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 10:41:44] "[33mDELETE /clients/5/accounts/rr HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 10:41:45] "[31m[1mPATCH /clients/5/accounts/12 HTTP/1.1[0m" 422 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 10:41:45] "[33mPATCH /clients/5/accounts/1r HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 10:41:45] "[31m[1mPATCH /clients/1/accounts/4/transfer/3 HTTP/1.1[0m" 422 -
+INFO:root:creating client Zach
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 10:42:45] "[37mPOST /clients HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 10:42:46] "[32mGET /clients HTTP/1.1[0m" 308 -
+INFO:root:getting all clients
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 10:42:46] "[37mGET /clients/ HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 10:42:46] "[37mGET /clients/11 HTTP/1.1[0m" 200 -
+INFO:root:Updating client
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 10:42:46] "[37mPUT /clients/11 HTTP/1.1[0m" 200 -
+INFO:root:Deleting Client
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 10:42:46] "[33mDELETE /clients/8 HTTP/1.1[0m" 404 -
+INFO:root:Creating account for client id=9
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 10:42:47] "[37mPOST /clients/9/accounts HTTP/1.1[0m" 201 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 10:42:47] "[32mGET /clients/1/accounts HTTP/1.1[0m" 308 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 10:42:47] "[37mGET /clients/1/accounts/ HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 10:42:47] "[32mGET /clients/1/accounts?amountLessThan=2000&amountGreaterThan=50000 HTTP/1.1[0m" 308 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 10:42:47] "[37mGET /clients/1/accounts/?amountLessThan=2000&amountGreaterThan=50000 HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 10:42:48] "[37mGET /clients/1/accounts/2 HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 10:42:48] "[33mPUT /clients/1/accounts/3 HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 10:42:48] "[33mDELETE /clients/5/accounts/10 HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 10:42:48] "[37mPATCH /clients/5/accounts/12 HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 10:42:49] "[37mPATCH /clients/5/accounts/12 HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 10:42:49] "[37mPATCH /clients/1/accounts/4/transfer/3 HTTP/1.1[0m" 200 -
+INFO:root:Deleting Client
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 12:30:58] "[35m[1mDELETE /clients/9 HTTP/1.1[0m" 500 -
+INFO:root:Deleting Client
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 12:32:15] "[35m[1mDELETE /clients/9 HTTP/1.1[0m" 500 -
+INFO:root:Started
+INFO:werkzeug: * Restarting with stat
+INFO:root:Started
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 335-881-555
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:root:Deleting Client
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 12:33:46] "[35m[1mDELETE /clients/9 HTTP/1.1[0m" 500 -
+INFO:root:Started
+INFO:werkzeug: * Restarting with stat
+INFO:root:Started
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 335-881-555
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:root:Deleting Client
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 12:35:05] "[35m[1mDELETE /clients/9 HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\JMDel\\PycharmProjects\\Project0\\daos\\client_dao_impl.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Started
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 335-881-555
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:root:Deleting Client
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 12:41:43] "[33mDELETE /clients/9 HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 13:28:15] "[32mGET /clients HTTP/1.1[0m" 308 -
+INFO:root:getting all clients
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 13:28:15] "[37mGET /clients/ HTTP/1.1[0m" 200 -
+INFO:root:Creating account for client id=1
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 13:29:17] "[37mPOST /clients/1/accounts HTTP/1.1[0m" 201 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 13:29:22] "[32mGET /clients/1/accounts HTTP/1.1[0m" 308 -
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 13:29:22] "[37mGET /clients/1/accounts/ HTTP/1.1[0m" 200 -
+INFO:root:Deleting Client
+INFO:werkzeug:127.0.0.1 - - [21/Apr/2021 13:29:37] "[35m[1mDELETE /clients/1 HTTP/1.1[0m" 500 -
